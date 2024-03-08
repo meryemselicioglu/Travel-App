@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/merye/Revature/240205-NET/Project1/Travel.App/Travel.App/Travel.App.csproj": {}
+    "/Users/merye/Revature/Travel App/Travel.App/Travel.App/Travel.App.csproj": {}
   },
   "projects": {
-    "/Users/merye/Revature/240205-NET/Project1/Travel.App/Travel.App/Travel.App.csproj": {
+    "/Users/merye/Revature/Travel App/Travel.App/Travel.App/Travel.App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/merye/Revature/240205-NET/Project1/Travel.App/Travel.App/Travel.App.csproj",
+        "projectUniqueName": "/Users/merye/Revature/Travel App/Travel.App/Travel.App/Travel.App.csproj",
         "projectName": "Travel.App",
-        "projectPath": "/Users/merye/Revature/240205-NET/Project1/Travel.App/Travel.App/Travel.App.csproj",
+        "projectPath": "/Users/merye/Revature/Travel App/Travel.App/Travel.App/Travel.App.csproj",
         "packagesPath": "/Users/merye/.nuget/packages/",
-        "outputPath": "/Users/merye/Revature/240205-NET/Project1/Travel.App/Travel.App/obj/",
+        "outputPath": "/Users/merye/Revature/Travel App/Travel.App/Travel.App/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/merye/.nuget/NuGet/NuGet.Config"
